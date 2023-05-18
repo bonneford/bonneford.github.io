@@ -2,38 +2,45 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Bonne J Ford Hotmann
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1 January 1985
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Colorado State University, Fort Collins, CO
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Description: Department of Atmospheric Science
+        - Advisor: Dr. Colette Heald
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MS
+      institution: Colorado State University, Fort Collins, CO
+      year: 2010
       description:
-        - Description 1.
-        - Description 2.
+        - Description: Department of Atmospheric Science
+        - Advisor: Dr Colette Heald
+    - title: BS
+      institution: Valparaiso University, Valparaiso, IN
+      year: 2008
+      description:
+        - Major: Meteorology
+        - Minor: Mathematics
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Scientist III
+      institution: Department of Atmospheric Science, Colorado State University
+      year: 2022-
       description:
         - Description 1.
         - Description 2.
@@ -41,57 +48,75 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            
+    - title: Research Scientist II
+      institution: Department of Atmospheric Science, Colorado State University
+      year: 2018 - 2022
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Scientist I
+      institution: Department of Atmospheric Science, Colorado State University
+      year: 2017 - 2018
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Postdoctoral Research Assistant
+      institution: Department of Atmospheric Science, Colorado State University
+      year: 2015 - 2016
+      description: Advisors: Dr. Jeffrey R. Pierce and Dr. Emily V. Fischer
+      
+    - title: Undergraduate Research Assistant
+      institution: Department of Geography and Meteorology, Valparaiso University
+      year: 2007 - 2008
+      description: Advisor: Dr. Gary Morris
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - CSU Department of Atmospheric Science Exceptional Service Award
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - CSU Walter Scott, Jr. CoE Outstanding Researcher – Rising Star Award
+    - year: 2013
+      items: 
+        - David L. Dietrich Honorary Scholarship, Colorado State University
+    - year: 2012
+      items: 
+        - Outstanding Student Paper Award, AGU Fall Meeting
+    - year: 2008 - 2010
+      items:
+        - Ball Aerospace Graduate Fellowship, Colorado State University 
+    - year: 2008
+      items:
+        - Eugene M. Rasmusson Award, Valparaiso University 
+        
 
-- title: Academic Interests
+- title: Professional Associations and Service 
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Member
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - American Geophysical Union, American Association of Aerosol Research, American Meteorological Society
+    - title: Reviewer 
+      items: 
+        - Atmospheric Environment, Journal of Geophysical Research, Atmospheric Chemistry and Physics, Elementa, Atmospheric Pollution Research, Environmental Health Perspectives, International Journal of Wildland Fire, Environment International, Atmosphere, Nature Communications, Environmental Research Letters, GeoHealth, Lancet Planetary Health
+    - title: Session Chair
       items:
-        - Description 1.
-        - Description 2.
+        - 24th Conference on Atmospheric Chemistry, AMS 102nd Annual Meeting, 2022.
+        - 25th Conference on Atmospheric Chemistry, AMS 103rd Annual Meeting, 2023.
+    - title: Staff Representative
+       items:
+         - CSU Department of Atmospheric Science Awards Committee (2021-2023) 
+         - CSU Department of Atmospheric Science Faculty Meetings (2023- )
 
-- title: Other Interests
+        
+
+- title: Technical Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Computer Programming: proficient with Python, IDL, Unix/Linux shell scripting, experience with R, ncl, html, ArcGIS, and Fortran (77 and 90)
+    - Chemical Transport Modeling: GEOS-Chem, WRF-Chem
+    - Experience with processing and managing large datasets (model output and satellite observations) 
+
