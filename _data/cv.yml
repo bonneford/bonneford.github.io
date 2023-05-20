@@ -3,10 +3,7 @@
   contents:
     - name: Full Name
       value: Bonne J Ford Hotmann
-    - name: Date of Birth
-      value: 1 January 1985
-    - name: Languages
-      value: English
+
 
 - title: Education
   type: time_table
@@ -17,16 +14,13 @@
       description:
         - Description: Department of Atmospheric Science
         - Advisor: Dr. Colette Heald
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
     - title: MS
       institution: Colorado State University, Fort Collins, CO
       year: 2010
       description:
         - Description: Department of Atmospheric Science
-        - Advisor: Dr Colette Heald
+        - Advisor: Dr. Colette Heald
     - title: BS
       institution: Valparaiso University, Valparaiso, IN
       year: 2008
@@ -41,20 +35,11 @@
     - title: Research Scientist III
       institution: Department of Atmospheric Science, Colorado State University
       year: 2022-
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
             
     - title: Research Scientist II
       institution: Department of Atmospheric Science, Colorado State University
       year: 2018 - 2022
-      description:
-        - Description 1.
-        - Description 2.
+
 
     - title: Research Scientist I
       institution: Department of Atmospheric Science, Colorado State University
@@ -116,7 +101,11 @@
 - title: Technical Skills
   type: list
   contents:
-    - Computer Programming: proficient with Python, IDL, Unix/Linux shell scripting, experience with R, ncl, html, ArcGIS, and Fortran (77 and 90)
-    - Chemical Transport Modeling: GEOS-Chem, WRF-Chem
+    - title: Computer Programming
+      items: 
+        - Python, IDL, Unix/Linux shell scripting, R, and Fortran (77 and 90)
+    - title: Chemical Transport Modeling
+      items: 
+        - GEOS-Chem, WRF-Chem
     - Experience with processing and managing large datasets (model output and satellite observations) 
 
