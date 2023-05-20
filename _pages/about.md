@@ -2,17 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist <a href='https://atmos.colostate.edu/'>Department of Atmospheric Science</a> at Colorado State University
+subtitle: Research Scientist at Colorado State University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Department of Atmospheric Science</p>
-    <p>Colorado State University</p>
-    <p>1371 Campus Delivery</p>
-    <p>Fort Collins, CO 80526</p>
+  email: >
+    <p>bonne@atmos.colostate.edu</p>
+
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
