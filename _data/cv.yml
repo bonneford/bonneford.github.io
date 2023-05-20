@@ -8,25 +8,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD Atmospheric Science
       institution: Colorado State University, Fort Collins, CO
       year: 2014
       description:
-        - Description: Department of Atmospheric Science
-        - Advisor: Dr. Colette Heald
-
-    - title: MS
+        - 'Advisor: Dr. Colette Heald'
+    - title: MS Atmospheric Science
       institution: Colorado State University, Fort Collins, CO
       year: 2010
       description:
-        - Description: Department of Atmospheric Science
-        - Advisor: Dr. Colette Heald
-    - title: BS
+        - 'Advisor: Dr. Colette Heald'
+    - title: BS Meteorology
       institution: Valparaiso University, Valparaiso, IN
       year: 2008
       description:
-        - Major: Meteorology
-        - Minor: Mathematics
+        - 'Major: Meteorology'
+        - 'Minor: Mathematics'
 
 
 - title: Experience
@@ -99,7 +96,7 @@
         
 
 - title: Technical Skills
-  type: list
+  type: nested_list
   contents:
     - title: Computer Programming
       items: 
