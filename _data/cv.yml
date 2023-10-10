@@ -31,7 +31,7 @@
   contents:
 
     - title: Research Scientist II
-      institution: National Park Services Group, CIRA, Colorado State University
+      institution: Cooperative Institute for Research in the Atmosphere (CIRA), Colorado State University
       year: 2023-
 
     - title: Research Scientist III
@@ -93,11 +93,10 @@
       items:
         - 24th Conference on Atmospheric Chemistry, AMS 102nd Annual Meeting, 2022.
         - 25th Conference on Atmospheric Chemistry, AMS 103rd Annual Meeting, 2023.
-        - 26th Conference on Atmospheric Chemistry, AMS 104th Annual Meeting, 2024.
     - title: Staff Representative
       items:
         - CSU Department of Atmospheric Science Awards Committee (2021-2023) 
-        - CSU Department of Atmospheric Science Faculty Meetings (2023)
+        - CSU Department of Atmospheric Science Faculty Meetings (2023- )
 
         
 
@@ -107,6 +106,9 @@
     - title: Computer Programming
       items: 
         - Python, IDL, Unix/Linux shell scripting, R, and Fortran (77 and 90)
+    - title: Digital Marketing
+      items: 
+        - Experience with Sendgrid and Twilio APIs for sending automated email and text message alerts      
     - title: Chemical Transport Modeling
       items: 
         - GEOS-Chem, WRF-Chem
