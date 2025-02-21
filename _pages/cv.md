@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: ford_cv_may2023.pdf
+cv_pdf: ford_cv_long_feb2025.pdf
 ---
